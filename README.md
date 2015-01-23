@@ -1,2 +1,3 @@
 # foxwedge
-# foxwedge
+
+install it yo
